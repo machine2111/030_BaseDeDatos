@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">030_BaseDeDatos</string>
+    <string name="codigo">Código del producto</string>
+    <string name="descripcion">Descripción del producto</string>
+    <string name="precio">Precio del producto</string>
+    <string name="registrar">REGISTRAR PRODUCTO</string>
+    <string name="buscar">BUSCAR PRODUCTO</string>
+    <string name="modificar">MODIFICAR PRODUCTO</string>
+    <string name="eliminar">ELIMINAR PRODUCTO</string>
+</resources>
